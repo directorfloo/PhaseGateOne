@@ -1,4 +1,24 @@
-
+/*Formulas
+Next Period Date
+Next Period=LMP+CL
+Ovulation Day
+Ovulation usually occurs 14 days before the next period.
+Ovulation= LMP + ( 𝐶𝐿 − 14)
+Ovulation=LMP+(CL−14)
+Fertile Window
+Sperm can live up to 5 days, egg up to 1 day → fertile window = 5 days before ovulation + ovulation day + 1 day after.
+Fertile Window =(Ovulation) to 
+(Ovulation + 1)
+Fertile Window=(Ovulation−5) to (Ovulation+1)
+Safe Periods
+Safe days are outside the fertile window:
+Before Fertile Window:
+Safe 1
+= LMP to (Ovulation − 6)
+Safe 1=LMP to (Ovulation−6)
+After Fertile Window:
+Safe 2 =(Ovulation +2) to Next Period
+Safe 2=(Ovulation+2) to Next Period*/
 
 
 
